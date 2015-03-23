@@ -15,7 +15,7 @@ CATEGORY (HandTool|Table|Shop-Professional) "HandTool"
 PARTNUM CDATA #IMPLIED
 PLANT (Pittsburgh|Milwaukee|Chicago) "Chicago"
 INVENTORY (InStock|Backordered|Discontinued) "InStock">
-
+<!--test Merge-->
 <!ELEMENT SPECIFICATIONS (#PCDATA)>
 <!ATTLIST SPECIFICATIONS
 WEIGHT CDATA #IMPLIED
