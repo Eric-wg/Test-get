@@ -26,6 +26,6 @@ public class Birthday {
 	}
 
 	public void addMethodForTestGit(){
-		system.out.println("git test success.");
+		System.out.println("git test success.");
 	}
 }

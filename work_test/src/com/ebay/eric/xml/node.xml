@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note SYSTEM "note.dtd" >
+<note>
+  <to NAME="aaa">to</to>
+  <from CHAN="asdfas">from</from>
+  <heading>heading</heading>
+  <body>&writer;&copyright;</body>
+</note>
